@@ -75,10 +75,7 @@ with open(budget_input) as money_data:
     
 with open(budget_output, "w") as txt_file:
     txt_file.write(output)
-        
 
-
-# In[ ]:
 
 
 
