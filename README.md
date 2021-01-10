@@ -1,2 +1,2 @@
 # python-challenge
-This project contains analysis of separate budget and poll data using Python
+This project contains pythonic analysis of election data from a small town as well as data relating to past budgets.
